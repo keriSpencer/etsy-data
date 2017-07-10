@@ -77,5 +77,5 @@ function question6 () {
     if ( maker === "i_did" )
     totalItems += 1
   }
-  console.log(totalItems)
+  console.log(totalItems + " were made by their sellers")
 }
